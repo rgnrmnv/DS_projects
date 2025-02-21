@@ -1,7 +1,7 @@
 <h1 align="center"> Приветствую, меня зовут <a>Регина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Мне 25 лет, и я живу в Казани :) </h3>
-<h3 align="center"> Jr Data Scientist</h3>
+<h3 align="center"> Data Scientist</h3>
 <h3 align="center"> В данном репозитории проекты, реализованные в рамках профессии "Специалист по Data Science" (Яндекс Практикум)</h3>
 
 ## ML projects
